@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+package libraryTask;
 
 /**
 * Определить класс Reader, хранящий такую информацию о пользователе библиотеки:
